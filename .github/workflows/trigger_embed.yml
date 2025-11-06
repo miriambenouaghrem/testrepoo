@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - "data/articles.csv"
+      - "data/articles2.csv"
   workflow_dispatch: {}
 
 jobs:
